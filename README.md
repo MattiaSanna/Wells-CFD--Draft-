@@ -1,12 +1,6 @@
 
 # Wells Turbine CFD — Numerical Replication of Experimental Performance
 
-**Author:** Mattia Sanna  
-**Discipline:** Mechanical Engineering · Computational Fluid Dynamics  
-**Software:** ANSYS Fluent · ANSYS Meshing · Python · MATLAB · SolidWorks  
-**Method:** Steady-State Multiple Reference Frame (MRF)
-
----
 
 ## 1. Project Overview
 
