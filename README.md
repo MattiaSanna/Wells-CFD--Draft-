@@ -26,7 +26,7 @@ The main performance quantities used for comparison were:
 - Non-dimensional pressure coefficient.
 - Non-dimensional torque coefficient.
 - Turbine efficiency.
-## CAD Model and Airfoil Generation
+## 3. CAD Model and Airfoil Generation
 
 The turbine geometry was reconstructed using a **NACA 0015 symmetrical airfoil**, with six blades arranged around the hub.
 
@@ -34,7 +34,7 @@ Python was used to generate the right airfoil profile mathematically starting fr
 
 This approach ensured an accurate airfoil geometry instead of relying on manually drawn profiles.
 
-## Computational Domain
+## 4. Computational Domain
 
 The computational domain was divided into three regions:
 - Upstream stationary duct
@@ -43,7 +43,7 @@ The computational domain was divided into three regions:
 
 A **60° periodic sector** was used to model a single blade passage, reducing computational cost while preserving the turbine's rotational symmetry.
 
-## Mesh Generation
+## 5. Mesh Generation
 
 An unstructured hybrid mesh was generated, with local refinement around the blades and inflation layers to resolve the boundary layer.
 
@@ -54,7 +54,7 @@ The mesh included:
 
 A grid independence study was also performed using four mesh resolutions, ranging from 1.2 to 12.1 million cells.
 
-## CFD Setup
+## 6. CFD Setup
 
 The simulations were performed in **ANSYS Fluent** using:
 - Pressure-based, steady-state solver
@@ -66,7 +66,7 @@ The simulations were performed in **ANSYS Fluent** using:
 
 The MRF approach allowed the rotating turbine to be simulated within a stationary computational domain.
 
-## Post-Processing and MATLAB Analysis
+## 7. Post-Processing and MATLAB Analysis
 
 Fluent results were exported for further analysis in MATLAB.
 
