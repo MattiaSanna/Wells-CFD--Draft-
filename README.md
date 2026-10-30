@@ -10,7 +10,7 @@ The objective was to investigate the aerodynamic behaviour of a six-blade Wells 
 
 The turbine geometry was reconstructed using a **NACA 0015 symmetrical airfoil**, with six blades arranged around the hub.
 
-Python was used to generate the airfoil profile mathematically. By implementing the standard NACA four-digit thickness equation, I calculated the upper and lower surface coordinates and exported them for CAD reconstruction.
+Python was used to generate the right airfoil profile mathematically starting from the NACA_0015 coordinates, later  exported for CAD reconstruction.
 
 This approach ensured an accurate airfoil geometry instead of relying on manually drawn profiles.
 
