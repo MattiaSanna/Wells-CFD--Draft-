@@ -1,6 +1,6 @@
 # Wells Turbine CFD Analysis
 
-## Project Overview
+## 1. Project Overview
 
 This project focuses on the numerical replication of experimental Wells turbine performance, based on my bachelor thesis *The Effect of Solidity on Wells Turbine Performance*.
 
