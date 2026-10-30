@@ -6,6 +6,18 @@ This project focuses on the numerical replication of experimental Wells turbine 
 
 A single configuration from the experimental campaign was selected for numerical replication. The same turbine geometry, rotational speed, inlet conditions and fluid properties were implemented in ANSYS Fluent using a steady Multiple Reference Frame (MRF) approach. 
 
+
+## 2. Project Objectives and Methodology
+
+The numerical investigation was divided into several stages:
+
+1. CAD reconstruction of the experimental turbine.
+2. Computational domain development using a Multiple Reference Frame approach.
+3. Mesh generation and near-wall refinement.
+4. Definition of the physical models and boundary conditions.
+5. Numerical quality assessment and mesh independence.
+6. Post-processing of aerodynamic quantities.
+7. Comparison against experimental performance data.
 ## CAD Model and Airfoil Generation
 
 The turbine geometry was reconstructed using a **NACA 0015 symmetrical airfoil**, with six blades arranged around the hub.
