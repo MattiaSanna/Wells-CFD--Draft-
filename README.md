@@ -4,7 +4,7 @@
 
 This project focuses on the numerical replication of experimental Wells turbine performance, based on my bachelor thesis *The Effect of Solidity on Wells Turbine Performance*.
 
-The objective was to investigate the aerodynamic behavior of a six-blade Wells turbine using ANSYS Fluent and compare numerical results with experimental data.
+A single configuration from the experimental campaign was selected for numerical replication. The same turbine geometry, rotational speed, inlet conditions and fluid properties were implemented in ANSYS Fluent using a steady Multiple Reference Frame (MRF) approach. 
 
 ## CAD Model and Airfoil Generation
 
