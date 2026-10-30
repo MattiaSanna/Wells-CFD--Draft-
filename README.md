@@ -30,7 +30,7 @@ An unstructured hybrid mesh was generated, with local refinement around the blad
 The mesh included:
 - 15 inflation layers
 - Growth rate of 1.2
-- Target \(y^+ \approx 1\)
+- Target y+ ≈ 1
 
 A grid independence study was also performed using four mesh resolutions, ranging from 1.2 to 12.1 million cells.
 
@@ -61,7 +61,7 @@ Numerical results were then compared with experimental measurements to evaluate 
 ## Technologies
 
 - ANSYS Fluent
-- ANSYS SpaceClaim
+- ANSYS DesignMdoler
 - Python
 - MATLAB
 - SolidWorks
