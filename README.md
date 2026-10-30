@@ -67,14 +67,7 @@ The rotor region is assigned a rotating reference frame, while the inlet and out
 
 This allows rotational effects to be included in a steady-state simulation without explicitly moving the mesh at every time step.
 
-The main advantages of this approach are:
-
-- Lower computational cost compared with transient sliding-mesh simulations.
-- Ability to obtain steady aerodynamic performance predictions.
-- Compatibility with stationary inlet and outlet boundaries.
-- Simplified modelling of rotating turbomachinery.
-
-The approach is particularly suitable when the objective is to investigate mean performance characteristics rather than transient blade-passing phenomena.
+This approach is widely used in turbomachinery simulations and allows to simplify themodelling of rotating turbomachinery.
 
 ### 4.3 Rotational Periodicity
 
@@ -84,9 +77,7 @@ Instead, a single-blade sector was considered.
 
 For a six-blade rotor, the angular sector is:
 
-\[
-\theta=\frac{360^\circ}{Z}=60^\circ
-\]
+\theta = \frac{360^\circ}{Z} = \frac{360^\circ}{6} = 60^\circ
 
 Periodic boundary conditions were applied to the two circumferential faces of the sector.
 
