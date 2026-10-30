@@ -34,6 +34,18 @@ Python was used to generate the right airfoil profile mathematically starting fr
 
 This approach ensured an accurate airfoil geometry instead of relying on manually drawn profiles.
 
+The main geometric parameters considered during reconstruction were:
+
+| Parameter | Value |
+|---|---:|
+| Airfoil | NACA 0015 |
+| Blade count | 6 |
+| Chord length | 72 mm |
+| Solidity | 0.625 |
+| Tip radius | 125 mm* |
+| Hub radius | 95 mm* |
+| Hub-to-tip ratio | 0.76* |
+
 ## 4. Computational Domain
 
 The computational domain was divided into three regions:
