@@ -75,15 +75,11 @@ To reduce computational requirements, the complete rotor was not simulated.
 
 Instead, a single-blade sector was considered.
 
-For a six-blade rotor, the angular sector is:
-
-\theta = \frac{360^\circ}{Z} = \frac{360^\circ}{6} = 60^\circ
+For a six-blade rotor, the angular sector is 60°.
 
 Periodic boundary conditions were applied to the two circumferential faces of the sector.
 
 This allows the numerical model to represent the complete rotor under the assumption of rotational periodicity.
-
-The resulting reduction in computational domain size significantly decreases the number of mesh elements and computational resources required.
 
 
 ## 5. Mesh Generation
