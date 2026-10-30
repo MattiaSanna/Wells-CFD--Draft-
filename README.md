@@ -28,9 +28,9 @@ The main performance quantities used for comparison were:
 - Turbine efficiency.
 ## 3. CAD Model and Airfoil Generation
 
-The turbine geometry was reconstructed using a **NACA 0015 symmetrical airfoil**, with six blades arranged around the hub.
+The turbine geometry was reconstructed using the dimensions and geometric characteristics reported in the experimental investigation.
 
-Python was used to generate the right airfoil profile mathematically starting from the NACA_0015 coordinates, later  exported for CAD reconstruction.
+Python was used to generate the right airfoil profile mathematically starting from the **NACA 0015 symmetrical airfoil** coordinates, later  exported for CAD reconstruction.
 
 This approach ensured an accurate airfoil geometry instead of relying on manually drawn profiles.
 
