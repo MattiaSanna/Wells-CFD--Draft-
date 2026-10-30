@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project focuses on the numerical replication of experimental Wells turbine performance, based on the thesis *The Effect of Solidity on Wells Turbine Performance*.
+This project focuses on the numerical replication of experimental Wells turbine performance, based on my bachelor thesis *The Effect of Solidity on Wells Turbine Performance*.
 
-The objective was to investigate the aerodynamic behaviour of a six-blade Wells turbine using ANSYS Fluent and compare numerical results with experimental data.
+The objective was to investigate the aerodynamic behavior of a six-blade Wells turbine using ANSYS Fluent and compare numerical results with experimental data.
 
 ## CAD Model and Airfoil Generation
 
