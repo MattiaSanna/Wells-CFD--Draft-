@@ -18,6 +18,14 @@ The numerical investigation was divided into several stages:
 5. Numerical quality assessment and mesh independence.
 6. Post-processing of aerodynamic quantities.
 7. Comparison against experimental performance data.
+
+The main performance quantities used for comparison were:
+
+- Aerodynamic torque.
+- Pressure drop.
+- Non-dimensional pressure coefficient.
+- Non-dimensional torque coefficient.
+- Turbine efficiency.
 ## CAD Model and Airfoil Generation
 
 The turbine geometry was reconstructed using a **NACA 0015 symmetrical airfoil**, with six blades arranged around the hub.
