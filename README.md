@@ -57,7 +57,21 @@ The post-processing workflow calculated:
 - Aerodynamic efficiency
 
 Numerical results were then compared with experimental measurements to evaluate the accuracy of the CFD model.
+## Model Validation
 
+The numerical model was validated by comparing CFD predictions against the experimental results reported in the reference thesis.
+
+Validation focused on:
+- **Torque:** comparing simulated and experimental torque across different inlet velocities.
+- **Pressure drop:** evaluating the pressure difference across the turbine to assess aerodynamic loading.
+- **Efficiency:** comparing the predicted aerodynamic efficiency and identifying discrepancies between numerical and experimental performance.
+- **Flow behaviour:** examining pressure and velocity distributions around the blades to verify that the simulated aerodynamic behaviour was physically consistent.
+
+A grid independence study was also conducted using four mesh resolutions (1.2M, 3.5M, 7.8M and 12.1M cells). Torque and efficiency were monitored across the mesh levels to assess the influence of cell count on the numerical results.
+
+Residual convergence and the stability of monitored quantities were checked to evaluate numerical convergence.
+
+The comparison highlighted differences between CFD predictions and experimental measurements, providing a basis for assessing the limitations of the numerical setup and identifying areas for further improvement.
 ## Technologies
 
 - ANSYS Fluent
