@@ -6,6 +6,8 @@ This project focuses on the numerical replication of experimental Wells turbine 
 
 A single configuration from the experimental campaign was selected for numerical replication. The same turbine geometry, rotational speed, inlet conditions and fluid properties were implemented in ANSYS Fluent using a steady Multiple Reference Frame (MRF) approach. 
 
+The final results showed variation from 5% to 10% for the torque, 1% to 3% for pressure delta and 8 to 14 for the aerodynamic efficiency.
+
 
 [View the CFD project on the website](https://wells.serben-di-pupo.com)
 
