@@ -1,0 +1,1094 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storage>
+  <Project Version="25.2.1.0">
+    <base-designpoint-name valType="String">0</base-designpoint-name>
+    <timestamp-max valType="Int64">10767</timestamp-max>
+    <framework-build-version valType="String">26.1.174.0</framework-build-version>
+    <external-version-string valType="String">2026 R1</external-version-string>
+    <last-saved-utc valType="String">10/31/2026 16:59:53</last-saved-utc>
+    <managed-categories valType="String">[report, misc, progress]</managed-categories>
+    <expression-scope-container valType="String">Parameters</expression-scope-container>
+    <project-type valType="String">WB2</project-type>
+    <project-id valType="String">9c749126-aef6-46db-8e94-d95e9f627a0d</project-id>
+    <ReferenceCache>
+      <ProjectReferenceList>
+        <ReferenceList valType="String">{
+"98ea76f6-6e76-4e5d-8c55-7b4173d6ab1c": "/FileContainer/FileReference:F4",
+"975ae061-f999-46ac-963b-9b8def8e2235": "/Schematic/Component:Solution",
+"8e4fea8f-de3f-4538-94fc-537c49e2f121": "/FileTypesContainer/FileType:GeometryFileType",
+"0351c375-9982-4ff7-9bc9-92c92d1affb7": "/FileTypesContainer/FileType:project",
+"39c223a2-0e9f-429d-af6b-b0b5b9811671": "/FileTypesContainer/FileType:ACTDatabase",
+"ed2d33ae-d573-4eb4-a8f3-eee7c7bbc141": "/Schematic/Template:Fluid Flow with Fluent Meshing",
+"9b7f2ad1-c11e-47b0-a490-ef3705ac9dc0": "/Schematic/Template:Fluid Flow (CFX)",
+"ad20e9d8-ca76-4aba-9026-3bc745674ada": "/Schematic/Template:Static Structural (ANSYS)",
+"f5092793-0f45-49d3-a11a-afc6b2dbd9b5": "/Schematic/Template:Fluid Flow",
+"25893672-1987-435d-9d36-0acc0304e5d6": "/Schematic/Template:Steady-State Thermal (ANSYS)",
+"c46259f9-53d0-4eee-bc23-8f744221da7b": "/Schematic/Template:Modal (ANSYS)",
+"94a498f0-883c-41fe-b62c-99ce4e0ff6dd": "/Schematic/Template:Random Vibration (ANSYS)",
+"2f4da898-8dde-4cc7-8a6f-ce26c6f0e6cb": "/Schematic/Template:Response Spectrum (ANSYS)",
+"b2bdee82-2d84-4308-b79a-3789934c6ab0": "/Schematic/Template:Transient Thermal (ANSYS)",
+"48b167e1-b5cf-4be9-9c45-69bab450d0f6": "/Schematic/ComponentTemplate:GeometryCellTemplate",
+"9aaf8928-3d79-4a89-85ce-a8b7c5869424": "/Schematic/ComponentTemplate:FluentTGridCellTemplate",
+"dda80e00-02cb-4c7b-9d16-f8e0e819f253": "/Schematic/ComponentTemplate:FluentSetupCellTemplate",
+"f1174d51-a481-4057-b87d-5b9a37887035": "/Schematic/ComponentTemplate:FluentResultsCellTemplate",
+"d9b4aeae-5920-418e-9ded-99094e8eb512": "/Schematic/ComponentTemplate:CFDPostTemplate",
+"0203a90d-0072-4c07-b806-db0b9d6c4e40": "/Schematic/Component:Setup",
+"0060cbc9-91ec-4956-8855-176747765018": "/Schematic/Component:Mesh",
+"f0bbeffb-c682-4ce4-bde7-e0f067b3fc2b": "/Schematic/Component:Geometry",
+"d861e8f5-fbe6-4295-b324-2b7631de4138": "/FileTypesContainer/FileType:CFFMesh",
+"8b3de9bb-a4eb-47ec-96de-601294ffa010": "/FileTypesContainer/FileType:FLUENTBc",
+"d0121fd2-b896-48a1-ae26-e9fadb8fb20e": "/FileTypesContainer/FileType:InterpolateDataFile",
+"85501b74-3572-41c1-9bc8-34a45529d75c": "/FileTypesContainer/FileType:FLUENTCase",
+"52fa9c1c-27ca-4809-98f2-d5957f6a21f4": "/FileTypesContainer/FileType:FLUENTData",
+"a47c084b-ba95-4eb2-b5ae-7bbcaae992a1": "/FileContainer/FileReference:F7",
+"87bfbbd8-8e3a-4ec3-a5d4-a915bece9c82": "/FileContainer/FileReference:F6",
+"f6cf517c-9eca-48b4-914a-ff8df6263211": "/FileContainer/FileReference:F8",
+"cbe57fff-d575-4a58-9d33-4acd31de508e": "/FileTypesContainer/FileType:MeshFileType",
+"f3281bac-e515-47ae-867f-9bf224c8eee4": "/Schematic/Component:Results",
+"2b849d9a-6682-43b0-bd4f-7a65b8e27d5a": "/Schematic/System:FFF",
+"6107742d-153c-453f-8076-1a9c350029b9": "/Schematic/ComponentTemplate:SimulationMeshingModelCellTemplate",
+"92b315e9-da77-42da-af94-0fdd0707226a": "/FileTypesContainer/FileType:FLUENTReportDefFiles",
+"f0c65471-7351-4f66-9daf-0c2a6c645444": "/FileTypesContainer/FileType:FluentResidualFile",
+"edb4da5c-63d2-4754-908e-cf811ad9eb8b": "/FileTypesContainer/FileType:FluentMeshFileType",
+"e7bf9157-02a6-41ca-9b5f-de3e63a5e07c": "/FileContainer/FileReference:F56",
+"cddc03d1-421d-4d8c-a294-bb736e2c990c": "/Schematic/ComponentTemplate:CFXResultsTemplate",
+"5a13b898-e79c-4f9e-b40f-0927057b59dd": "/Schematic/ComponentTemplate:CFXPhysicsTemplate",
+"fbd8722b-2e55-495f-8b31-6d0d8c6182d5": "/Schematic/Template:CFX",
+"8b0a847c-49b0-44b2-92b8-a50cf6b731e9": "/FileTypesContainer/FileType:CFXPreCase",
+"f177ca12-d5af-4e3b-a8d5-38150880ed36": "/FileTypesContainer/FileType:CMDBMeshFileType",
+"306340d7-9431-4608-a2df-1d98cbecf3a4": "/FileContainer/FileReference:F136",
+"8164824c-a18f-4d6c-83b3-ccd8d6af8729": "/FileTypesContainer/FileType:FLUENTSolutionTranscript",
+"9ca7bd11-abde-46ba-b7ec-bd2e802c604f": "/FileContainer/FileReference:F144",
+"dfafabd7-1561-4dde-a8aa-4366a5f8b6c2": "/FileContainer/FileReference:F143",
+"0abc7150-b4c0-466b-be57-32eea93e1d4b": "/FileContainer/FileReference:F155",
+"97ccf0eb-4774-46dc-a15f-0a3f37b9b284": "/FileContainer/FileReference:F154",
+"d718ba58-2ca3-4192-b740-b15775baef7d": "/FileContainer/FileReference:F153",
+"215016cd-df2f-4b84-98ad-e2854d5a83e0": "/FileContainer/FileReference:F151",
+"3b55be94-2297-43be-9ce3-e305fa366ff9": "/FileContainer/FileReference:F152",
+"6c028e48-8dd4-4535-be7c-b20b90fdcde7": "/FileContainer/FileReference:F150",
+"e61c2ae0-cfc1-4055-8b44-cc4e27662212": "/FileContainer/FileReference:F149",
+"b54f060c-d71b-4615-8582-931c04257c5e": "/FileTypesContainer/FileType:CFDPostState"
+}</ReferenceList>
+      </ProjectReferenceList>
+      <DesignPointReferenceListCollection>
+        <DesignPointReferenceList Name="0">
+          <ReferenceList valType="String">{
+"13d508c3-6d10-4a90-90e7-11970bb46bb8": "/Geometry/Geometry:GeometryDataObject",
+"6abf3604-0653-46c1-a861-fdf7a9d57144": "/Mesh/MechanicalModel:MechanicalModel",
+"41b8eeb8-7c51-47b1-afab-b7d67028640c": "/Mesh/MeshingGeneratedMeshOutputProvider:MeshingGeneratedMeshOutputProvider",
+"7b22c653-3878-4743-8ee3-5e47284cf80e": "/Mesh/GeneratedMeshOutputForAQWAModelProvider:GeneratedMeshOutputForAQWAModelProvider",
+"890d37f2-1c20-48e2-a359-dbe3d7c3c584": "/Mesh/MeshingMesh:MeshingMeshDataObject",
+"355520fe-832d-4535-a951-4f0eb8e4bedb": "/Solution/FluentSolutionProperties:SolutionData",
+"468c5676-a60f-4835-9aa2-95fa270359f4": "/Setup/SetupData:SetupData",
+"5e69c241-35f3-4fa3-8c3d-913644d07b89": "/Solution/FluentSolution:SolutionDataProvider",
+"e60a5704-3038-4e51-bf5e-c8a6b34245a1": "/Results/SolutionDataLink:SolutionDataProvider",
+"470c024e-f22c-472a-9285-4d0d7fe340c8": "/Results/CFDResults:Results Source",
+"35b818bb-4a09-48b9-ae58-1fdcb41f4714": "/Mesh/MechanicalMeshFile:FluentMesh"
+}</ReferenceList>
+        </DesignPointReferenceList>
+      </DesignPointReferenceListCollection>
+    </ReferenceCache>
+  </Project>
+  <Addins>
+    <addin-list valType="String">[Ansys.ParameterManager.ParameterManagerAddin, Ansys.ProjectSchematic.ProjectSchematicAddin, Ansys.ProjectReporting.Addin, Ansys.Graphics.GraphicsAddin, Ansys.Units.Commands.Addin, Ansys.HPS.Addin, Ansys.PyAddin.Core.Addin]</addin-list>
+    <Addin Name="Ansys.ParameterManager.ParameterManagerAddin" Version="7.4" />
+    <Addin Name="Ansys.ProjectSchematic.ProjectSchematicAddin" Version="15.1" />
+    <Addin Name="Ansys.ProjectReporting.Addin" Version="6.0" />
+    <Addin Name="Ansys.Graphics.GraphicsAddin" Version="2.1" />
+    <Addin Name="Ansys.Units.Commands.Addin" Version="7.1" />
+    <Addin Name="Ansys.HPS.Addin" Version="26.1.1.0">
+      <is-optional-on-resume valType="Boolean">true</is-optional-on-resume>
+    </Addin>
+    <Addin Name="Ansys.PyAddin.Core.Addin" Version="25.1.0.0" />
+  </Addins>
+  <Containers>
+    <container-map valType="String">{"FileContainer": Project:FileContainer, "Messages": Project:Messages, "Parameters": Ansys.ParameterManager.ParameterManagerAddin:parameters, "Schematic": Ansys.ProjectSchematic.ProjectSchematicAddin:Default, "ReportDataContainer": Ansys.ProjectReporting.Addin:ReportDataContainer, "Graphics": Ansys.Graphics.GraphicsAddin:graphics, "Units": Ansys.Units.Commands.Addin:Units, "HpsContainer": Ansys.HPS.Addin:HpsContainer, "PyAddinManager": Ansys.PyAddin.Core.Addin:ManagerContainer}</container-map>
+    <static-container-ids valType="String">{"FileContainer": FileManager, "Parameters": Parameters, "Schematic": Schematic, "ReportDataContainer": ReportDataContainer, "Graphics": Graphics, "Units": Units, "HpsContainer": HpsContainer, "PyAddinManager": PyAddinManager}</static-container-ids>
+    <Container Name="FileContainer" Version="1.0">
+      <container-type valType="String">Project:FileContainer</container-type>
+      <static-id valType="String">FileManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 10760, "Input": 1514, "Output": 1514}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/FileContainer/FileReference:F7" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F7</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1.agdb", "FileType": $$8e4fea8f-de3f-4538-94fc-537c49e2f121, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\DM\FFF-1.agdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F2" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F2</object-name>
+        <member-data valType="String">{"DisplayText": "Wells_SinglePassage.wbpj", "FileType": $$0351c375-9982-4ff7-9bc9-92c92d1affb7, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": "$(ProjectName).wbpj", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F3" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F3</object-name>
+        <member-data valType="String">{"DisplayText": "act.dat", "FileType": $$39c223a2-0e9f-429d-af6b-b0b5b9811671, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\act.dat", "ReferenceCount": 38}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F4" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F4</object-name>
+        <member-data valType="String">{"DisplayText": "FFF.agdb", "FileType": $$8e4fea8f-de3f-4538-94fc-537c49e2f121, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF\DM\FFF.agdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F6" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F6</object-name>
+        <member-data valType="String">{"DisplayText": "Wells_Turbine.STEP", "FileType": $$8e4fea8f-de3f-4538-94fc-537c49e2f121, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"C:\Users\Mattia\Desktop\CFD\CAD\Wells_Turbine.STEP", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F8" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F8</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1.mshdb", "FileType": $$cbe57fff-d575-4a58-9d33-4acd31de508e, "DependentFiles": [], "ContainerAssociations": ["Mesh"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\FFF-1.mshdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F152" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F152</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1-Setup-Output.cas.h5", "FileType": $$85501b74-3572-41c1-9bc8-34a45529d75c, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\FFF-1-Setup-Output.cas.h5", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F155" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F155</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1-1-00501.dat.h5", "FileType": $$52fa9c1c-27ca-4809-98f2-d5957f6a21f4, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\FFF-1-1-00501.dat.h5", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F56" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F56</object-name>
+        <member-data valType="String">{"DisplayText": "SolutionMonitor.gz", "FileType": $$f0c65471-7351-4f66-9daf-0c2a6c645444, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": False, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\SolutionMonitor.gz", "ReferenceCount": 4}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F136" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F136</object-name>
+        <member-data valType="String">{"DisplayText": "Solution.trn", "FileType": $$8164824c-a18f-4d6c-83b3-ccd8d6af8729, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": False, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\Solution.trn", "ReferenceCount": 12}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F149" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F149</object-name>
+        <member-data valType="String">{"DisplayText": "Fluid Flow Fluent.cst", "FileType": $$b54f060c-d71b-4615-8582-931c04257c5e, "DependentFiles": [], "ContainerAssociations": ["Results"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Post\Fluid Flow Fluent.cst", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F150" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F150</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1.msh", "FileType": $$edb4da5c-63d2-4754-908e-cf811ad9eb8b, "DependentFiles": [], "ContainerAssociations": ["Mesh", "Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\MECH\FFF-1.msh", "ReferenceCount": 2}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F153" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F153</object-name>
+        <member-data valType="String">{"DisplayText": "torque-rfile.out", "FileType": $$92b315e9-da77-42da-af94-0fdd0707226a, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\torque-rfile.out", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F144" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F144</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1.dsco", "FileType": $$8e4fea8f-de3f-4538-94fc-537c49e2f121, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\DM\FFF-1.dsco", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F143" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F143</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1.scdocx", "FileType": $$8e4fea8f-de3f-4538-94fc-537c49e2f121, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\DM\FFF-1.scdocx", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F154" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F154</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1-1.cas.h5", "FileType": $$85501b74-3572-41c1-9bc8-34a45529d75c, "DependentFiles": [$$0abc7150-b4c0-466b-be57-32eea93e1d4b], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\FFF-1-1.cas.h5", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F151" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F151</object-name>
+        <member-data valType="String">{"DisplayText": "FFF-1.set", "FileType": $$8b3de9bb-a4eb-47ec-96de-601294ffa010, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\FFF-1\Fluent\FFF-1.set", "ReferenceCount": 1}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Messages" Version="1.0">
+      <container-type valType="String">Project:Messages</container-type>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 10629, "Input": 1515, "Output": 1515}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Messages/StoredMessage:Message" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "Microsoft Office Excel application has not been detected as installed. The Microsoft Office Excel system is not available.", "Details": None, "Association": "", "DateTimeStamp": 10/10/2026 10:38:13, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 1" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 1</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "It is recommended to setup the workflow tasks by providing all the required inputs.", "Details": "Make sure that tasks have all the required inputs for their execution", "Association": "", "DateTimeStamp": 10/10/2026 10:55:02, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 2" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 2</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Unable to update solution. Number of iterations should be greater than zero.", "Details": "Unable to update solution. Number of iterations should be greater than zero.", "Association": "", "DateTimeStamp": 10/10/2026 10:56:53, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 3" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 3</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error or interrupt occurred in the previous operation.
+       Details have been printed to the text console transcript.""", "Details": """An error or interrupt occurred in the previous operation.
+       Details have been printed to the text console transcript.""", "Association": "", "DateTimeStamp": 10/10/2026 10:56:53, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 4" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 4</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update of the Solution component in Fluid Flow (Fluent with Fluent Meshing) failed: Update Solution Failed", "Details": """Ansys.Core.Commands.UserReadableFailureException: Exception of type 'Ansys.Core.Commands.UserReadableFailureException' was thrown.
+   at Ansys.Fluent.Data.SolutionData.Update(IFullContext context, SolutionUpdateType solutionUpdateType, Boolean pendingMode, Boolean IsUadpViaRsm)
+--- Ansys.Fluent.Cortex.CortexCommException: Update Solution Failed
+   at Ansys.Fluent.Data.SolutionData.Update(IFullContext context, SolutionUpdateType solutionUpdateType, Boolean pendingMode, Boolean IsUadpViaRsm)
+   at Ansys.Fluent.Commands.UpdateOrPretendToUpdateSolutionCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Update Solution Failed
+CommandName: Fluent.UpdateOrPretendToUpdateSolution(Container=\"Solution\", PendingMode=False)
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Fluent.Commands.UpdateOrPretendToUpdateSolutionCommand.InvokeAndWait(IProtectedContext context, IProgressMonitor progressMonitor, DataContainerReference Container, Boolean PendingMode, Boolean IsUadpViaRsm, Boolean Restart)
+   at Ansys.Fluent.Commands.UpdateSolutionCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Update Solution Failed
+CommandName: Fluent.UpdateSolution(Container=\"Solution\", UpdateOptions=Set(DpUpdateType=None, HeldLicenseId=None, LicenseStatsId=\"795f179258934dd698cdd5186ba0ade4\", DesignPointUpdateQueue=None, MaxNumberOfCores=0))
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.WaitForSuspendOrComplete(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.ProjectSchematic.Data.ComponentTemplateEntity.Update(IFullContext context, IProgressMonitor progressMonitor, Int32 milliSecondsTimeout, DataContainerReference container, String dataGroup, UpdateOptions updateOptions, IEnumerable`1 downstream, IEnumerable`1 allRemaining)
+   at Ansys.ProjectSchematic.Update.UpdateTask.Update(IFullContext context, IProgressMonitor progressMonitor, Int32 milliSecondsTimeout, UpdateOptions updateOptions, IEnumerable`1 downstream, IEnumerable`1 allRemaining)
+   at Ansys.ProjectSchematic.Update.ComponentUpdatePlugin.updateComponent(IContextForUpdatePlugin callbacks, UpdateTask task, String trackToken, IProgressMonitor progressMonitor, Int32 milliSecondsTimeout, TaskHolder remainingTasksInThisDp, List`1 dependentTasks)
+   at Ansys.ProjectSchematic.Update.ComponentUpdatePlugin.&lt;&gt;c__DisplayClass0_0.&lt;UpdateComponent&gt;b__0()
+   at Ansys.ProjectSchematic.Update.ExecuteWithErrorBehaviour.Execute(IContextForUpdatePlugin callbacks, UpdateErrorBehavior behavior, Action op, UpdateTask forTask, Action opUponError)
+""", "Association": "", "DateTimeStamp": 10/10/2026 10:57:08, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 5" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 5</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "Update interrupted", "Details": None, "Association": "", "DateTimeStamp": 10/10/2026 10:57:08, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 6" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 6</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": """Following zones were missing in the mesh:
+wall-27 ,wall-24
+Following new zones were found in the mesh:
+blade ,wall-26 ,wall-29
+""", "Association": "", "DateTimeStamp": 10/10/2026 12:10:44, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 7" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 7</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""An error occurred in FLUENT when reading data file C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_New_files\dp0\FFF-1\Fluent\FFF-1.1-3-01000.dat.h5
+An error occurred in FLUENT when reading data file C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_New_files\dp0\FFF-1\Fluent\FFF-1.1-3-01000.dat.h5""", "Details": """Ansys.Fluent.Cortex.CortexCommandFailedException: An error occurred in FLUENT when reading data file C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_New_files\\dp0\\FFF-1\\Fluent\\FFF-1.1-3-01000.dat.h5
+An error occurred in FLUENT when reading data file C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_New_files\\dp0\\FFF-1\\Fluent\\FFF-1.1-3-01000.dat.h5
+   at Ansys.Fluent.Cortex.CortexCommunicator.SendMessage(String msg, String msgKey, String errorMessage, Boolean waitForReply)
+   at Ansys.Fluent.FluentCommunicator.ReadData(String fileName)
+   at Ansys.Fluent.Data.SolutionData.LoadSolutionPoint(IFullContext context, Int32 iteration)
+   at Ansys.Fluent.Data.SolutionData.LoadFiles(IFullContext context)
+   at Ansys.Fluent.Data.SolutionData.LaunchFluentAndRead(IFullContext context, Boolean batchMode, Boolean internallyStarted)
+   at Ansys.Fluent.Commands.EditCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: An error occurred in FLUENT when reading data file C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_New_files\\dp0\\FFF-1\\Fluent\\FFF-1.1-3-01000.dat.h5
+An error occurred in FLUENT when reading data file C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_New_files\\dp0\\FFF-1\\Fluent\\FFF-1.1-3-01000.dat.h5
+CommandName: Fluent.Edit(Container=\"Solution\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Fluent.Commands.EditCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, Boolean Interactive)
+   at Ansys.Fluent.Gui.GuiUtilities.GetLauncherSettingsAndEdit(GuiOperationContext operationContext, DataContainerReference cref, LauncherEditMode editMode)
+   at Ansys.Fluent.Gui.OpenInFluentGui.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/14/2026 20:05:04, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 8" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 8</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": """Following zones were missing in the mesh:
+stat-2 ,stat-1 ,mrf-periodic ,mrf_in ,stat_out_2 ,stat_out_1 ,stat_in_2 ,stat_in_1 ,mrf_out ,wall-29 ,wall-26
+Following new zones were found in the mesh:
+wall-19 ,wall-20 ,wall-22 ,wall-23
+""", "Association": "", "DateTimeStamp": 10/14/2026 22:58:32, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 9" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 9</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": """Following zones were missing in the mesh:
+mrf.1 ,mrf.2
+Following new zones were found in the mesh:
+stationary2 ,wall-stationary2
+""", "Association": "", "DateTimeStamp": 10/15/2026 19:44:30, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 10" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 10</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": """Following zones were missing in the mesh:
+wall-28 ,wall-26 ,wall-25 ,wall-stationary1 ,wall-stationary2
+Following new zones were found in the mesh:
+duct-mrf ,duct-stationary2 ,duct-stationary1 ,hub-mrf ,hub-stationary2 ,hub-stationary1 ,wall-30 ,wall-32 ,wall-33
+""", "Association": "", "DateTimeStamp": 10/16/2026 20:13:42, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 11" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 11</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Fluent failed to apply some mesh operations", "Details": """Following mesh operations failed while applying in FLUENT:
+Create Mesh Interface (Failed)
+""", "Association": "", "DateTimeStamp": 10/16/2026 20:14:16, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 12" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 12</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "The Mesh component in Fluid Flow (Fluent) requires user input before it can be updated. For instructions on how to address the cell in its current state, click the blue triangle in the lower right corner of the cell in the Project Schematic.", "Details": None, "Association": "", "DateTimeStamp": 10/17/2026 16:55:37, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 13" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 13</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.Fluent failed to apply some mesh operations", "Details": """Following zones were missing in the mesh:
+mrf ,mrf_out ,mrf_in ,wall-33 ,wall-32 ,wall-30 ,wall-29 ,wall-mrf ,outlet ,inlet ,blade ,hub-mrf ,duct-mrf
+Following new zones were found in the mesh:
+solid ,wall-solid ,wall-stationary2 ,wall-stationary1 ,wall-24 ,wall-25 ,wall-27 ,wall-28
+Following mesh operations failed while applying in FLUENT:
+Change Zone Type (Failed) ,Change Zone Type [ 2 ] (Failed)
+""", "Association": "", "DateTimeStamp": 10/17/2026 17:22:17, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 14" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 14</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "A dialog is open in the FLUENT Application. Please close the dialog before trying this operation.", "Details": None, "Association": "", "DateTimeStamp": 10/17/2026 17:22:17, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 15" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 15</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": """Following zones were missing in the mesh:
+solid ,wall-25 ,wall-24 ,wall-stationary1 ,wall-stationary2 ,wall-solid
+Following new zones were found in the mesh:
+mrf ,blade ,mrf_in ,mrf_out ,inlet ,outlet ,wall-mrf ,wall-30 ,wall-31
+""", "Association": "", "DateTimeStamp": 10/17/2026 17:29:07, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 16" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 16</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_TEST_files\dp0\FFF-1\Fluent\FFF-1-16.cas.h5""", "Details": None, "Association": "", "DateTimeStamp": 10/17/2026 17:33:44, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 17" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 17</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": """Following zones were missing in the mesh:
+wall-22 ,wall-21
+Following new zones were found in the mesh:
+contact_region_3-trg ,contact_region_3-src ,wall-stationary2 ,wall-27 ,wall-28 ,wall-30 ,wall-31
+""", "Association": "", "DateTimeStamp": 10/18/2026 16:51:08, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 18" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 18</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""The following project file may not have been backed up before it was modified:
+C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_Single_files\dp0\FFF-1\Fluent\report-def-0-rfile.out""", "Details": None, "Association": "", "DateTimeStamp": 10/18/2026 20:16:19, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 19" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 19</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""Failed in handling Cortex/Fluent command messageWorkBench Error: Could not register file; Name :C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_Single_files\dp0\FFF-1\Fluent\FFF-1.set; Type :bcError Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Details": """Error in registering file: Error Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Association": "", "DateTimeStamp": 10/19/2026 13:15:48, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 20" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 20</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Failed in handling Cortex/Fluent command messageWorkBench Error: Could not handle event: InitializationValidError Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Details": """Error in handling event: Error Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Association": "", "DateTimeStamp": 10/19/2026 13:15:48, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 21" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 21</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Failed in handling Cortex/Fluent command messageWorkBench Error: Could not handle event: InterpolationDataFileError Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Details": """Error in handling event: Error Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Association": "", "DateTimeStamp": 10/19/2026 13:15:48, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 22" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 22</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Failed in handling Cortex/Fluent command messageWorkBench Error: Could not handle event: InitializationValidError Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Details": """Error in handling event: Error Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Association": "", "DateTimeStamp": 10/19/2026 13:15:48, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 23" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 23</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": r"""Failed in handling Cortex/Fluent command messageWorkBench Error: Could not register file; Name :C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_Single_files\dp0\FFF-1\Fluent\FFF-1.set; Type :bcError Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Details": """Error in registering file: Error Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Association": "", "DateTimeStamp": 10/19/2026 13:15:48, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 24" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 24</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "No mesh data is available from component Mesh. You may need to update this component.", "Details": """UpdatePreMeshes
+
+""", "Association": "", "DateTimeStamp": 10/27/2026 08:35:43, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 25" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 25</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": "No mesh data is available from component Mesh. You may need to update this component.", "Details": """UpdatePreMeshes
+
+""", "Association": "", "DateTimeStamp": 10/27/2026 08:35:50, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 26" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 26</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:22:35, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 27" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 27</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": """CFX-Pre Application Error
+
+ERROR
+An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Association": "", "DateTimeStamp": 10/27/2026 09:22:35, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 28" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 28</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Boundary  for interface period could not be found
+
+
+There was a problem reading the physics CCL.
+
+
+There was a problem reading the generic physics CCL from
+the file \"C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_Single_files\\dp0\\CFX\\CFX\\CFX.def\". This could be because:
+
+  o The file does not exist or is not readable.
+  o It does not contain the required data set,
+    [\"G/COMMANDS\", \"EVERY\", 0].
+  o The data set contains invalid CCL.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:22:36, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 29" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 29</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.", "Details": """System.ApplicationException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCmd(String code, String data, Int32 maxWait, Boolean ignoreCUEErrorDuringSendCmd)
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCCLNoACLE(String ccl, Boolean ignoreErrors)
+   at Ansys.CFX.CFXCore.App.CFXPreProxy.WriteDefFile(String fileName, Boolean writeSCP)
+   at Ansys.CFX.CFXCore.Data.CFXSetupSource.GetSolverInputFile(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSetupProvider.DoRetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.TransferDataObject.RetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.RetrieveDataCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.RetrieveData(Entity=\"/Setup 1/CFXSetup:Setup 1 Provider\", ConnectionKey=\"6f8f48a6-d9bd-46b2-a365-0c73b1a2bff4\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.CommandContext.InvokeCommandAndWait(InvokeConfiguration configuration, CommandInfo commandInfo, ArgumentDictionary args)
+   at Ansys.Core.Commands.CommandContext.InvokeMethodAndWait(IObjectReference objectReference, String methodName, ArgumentDictionary args)
+   at Ansys.CFX.Foundation.DataTransfer.DataLink.RetrieveDataImpl(IFullContext context, Boolean updateRetrievalTimestamp)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.GetUpstreamSetup(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.CheckForExecutionControlConflict(IFullContext context, ExecutionControlSourceEnum option)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.DefineRun(IFullContext context, ExecutionControlSourceEnum ecOption)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.EditRunDefinition(Container=\"Solution 1\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, ExecutionControlConflictOptions ExecutionControlOption)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionBase.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/27/2026 09:22:47, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 30" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 30</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:22:57, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 31" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 31</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": """CFX-Pre Application Error
+
+ERROR
+An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Association": "", "DateTimeStamp": 10/27/2026 09:22:57, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 32" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 32</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Boundary  for interface period could not be found
+
+
+There was a problem reading the physics CCL.
+
+
+There was a problem reading the generic physics CCL from
+the file \"C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_Single_files\\dp0\\CFX\\CFX\\CFX.def\". This could be because:
+
+  o The file does not exist or is not readable.
+  o It does not contain the required data set,
+    [\"G/COMMANDS\", \"EVERY\", 0].
+  o The data set contains invalid CCL.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:23:09, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 33" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 33</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.", "Details": """System.ApplicationException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCmd(String code, String data, Int32 maxWait, Boolean ignoreCUEErrorDuringSendCmd)
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCCLNoACLE(String ccl, Boolean ignoreErrors)
+   at Ansys.CFX.CFXCore.App.CFXPreProxy.WriteDefFile(String fileName, Boolean writeSCP)
+   at Ansys.CFX.CFXCore.Data.CFXSetupSource.GetSolverInputFile(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSetupProvider.DoRetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.TransferDataObject.RetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.RetrieveDataCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.RetrieveData(Entity=\"/Setup 1/CFXSetup:Setup 1 Provider\", ConnectionKey=\"6f8f48a6-d9bd-46b2-a365-0c73b1a2bff4\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.CommandContext.InvokeCommandAndWait(InvokeConfiguration configuration, CommandInfo commandInfo, ArgumentDictionary args)
+   at Ansys.Core.Commands.CommandContext.InvokeMethodAndWait(IObjectReference objectReference, String methodName, ArgumentDictionary args)
+   at Ansys.CFX.Foundation.DataTransfer.DataLink.RetrieveDataImpl(IFullContext context, Boolean updateRetrievalTimestamp)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.GetUpstreamSetup(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.CheckForExecutionControlConflict(IFullContext context, ExecutionControlSourceEnum option)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.DefineRun(IFullContext context, ExecutionControlSourceEnum ecOption)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.EditRunDefinition(Container=\"Solution 1\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, ExecutionControlConflictOptions ExecutionControlOption)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionBase.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/27/2026 09:23:10, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 34" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 34</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:23:17, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 35" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 35</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": """CFX-Pre Application Error
+
+ERROR
+An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Association": "", "DateTimeStamp": 10/27/2026 09:23:17, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 36" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 36</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Boundary  for interface period could not be found
+
+
+There was a problem reading the physics CCL.
+
+
+There was a problem reading the generic physics CCL from
+the file \"C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_Single_files\\dp0\\CFX\\CFX\\CFX.def\". This could be because:
+
+  o The file does not exist or is not readable.
+  o It does not contain the required data set,
+    [\"G/COMMANDS\", \"EVERY\", 0].
+  o The data set contains invalid CCL.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:23:19, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 37" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 37</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.", "Details": """System.ApplicationException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCmd(String code, String data, Int32 maxWait, Boolean ignoreCUEErrorDuringSendCmd)
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCCLNoACLE(String ccl, Boolean ignoreErrors)
+   at Ansys.CFX.CFXCore.App.CFXPreProxy.WriteDefFile(String fileName, Boolean writeSCP)
+   at Ansys.CFX.CFXCore.Data.CFXSetupSource.GetSolverInputFile(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSetupProvider.DoRetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.TransferDataObject.RetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.RetrieveDataCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.RetrieveData(Entity=\"/Setup 1/CFXSetup:Setup 1 Provider\", ConnectionKey=\"6f8f48a6-d9bd-46b2-a365-0c73b1a2bff4\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.CommandContext.InvokeCommandAndWait(InvokeConfiguration configuration, CommandInfo commandInfo, ArgumentDictionary args)
+   at Ansys.Core.Commands.CommandContext.InvokeMethodAndWait(IObjectReference objectReference, String methodName, ArgumentDictionary args)
+   at Ansys.CFX.Foundation.DataTransfer.DataLink.RetrieveDataImpl(IFullContext context, Boolean updateRetrievalTimestamp)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.GetUpstreamSetup(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.CheckForExecutionControlConflict(IFullContext context, ExecutionControlSourceEnum option)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.DefineRun(IFullContext context, ExecutionControlSourceEnum ecOption)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.EditRunDefinition(Container=\"Solution 1\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, ExecutionControlConflictOptions ExecutionControlOption)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionBase.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/27/2026 09:23:20, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 38" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 38</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:23:31, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 39" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 39</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": """CFX-Pre Application Error
+
+ERROR
+An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Association": "", "DateTimeStamp": 10/27/2026 09:23:31, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 40" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 40</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:24:36, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 41" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 41</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": """CFX-Pre Application Error
+
+ERROR
+An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Association": "", "DateTimeStamp": 10/27/2026 09:24:36, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 42" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 42</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Boundary  for interface period could not be found
+
+
+There was a problem reading the physics CCL.
+
+
+There was a problem reading the generic physics CCL from
+the file \"C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_Single_files\\dp0\\CFX\\CFX\\CFX.def\". This could be because:
+
+  o The file does not exist or is not readable.
+  o It does not contain the required data set,
+    [\"G/COMMANDS\", \"EVERY\", 0].
+  o The data set contains invalid CCL.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:24:37, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 43" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 43</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.", "Details": """System.ApplicationException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCmd(String code, String data, Int32 maxWait, Boolean ignoreCUEErrorDuringSendCmd)
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCCLNoACLE(String ccl, Boolean ignoreErrors)
+   at Ansys.CFX.CFXCore.App.CFXPreProxy.WriteDefFile(String fileName, Boolean writeSCP)
+   at Ansys.CFX.CFXCore.Data.CFXSetupSource.GetSolverInputFile(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSetupProvider.DoRetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.TransferDataObject.RetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.RetrieveDataCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.RetrieveData(Entity=\"/Setup 1/CFXSetup:Setup 1 Provider\", ConnectionKey=\"6f8f48a6-d9bd-46b2-a365-0c73b1a2bff4\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.CommandContext.InvokeCommandAndWait(InvokeConfiguration configuration, CommandInfo commandInfo, ArgumentDictionary args)
+   at Ansys.Core.Commands.CommandContext.InvokeMethodAndWait(IObjectReference objectReference, String methodName, ArgumentDictionary args)
+   at Ansys.CFX.Foundation.DataTransfer.DataLink.RetrieveDataImpl(IFullContext context, Boolean updateRetrievalTimestamp)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.GetUpstreamSetup(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.CheckForExecutionControlConflict(IFullContext context, ExecutionControlSourceEnum option)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.DefineRun(IFullContext context, ExecutionControlSourceEnum ecOption)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.EditRunDefinition(Container=\"Solution 1\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, ExecutionControlConflictOptions ExecutionControlOption)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionBase.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/27/2026 09:24:38, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 44" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 44</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:52:42, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 45" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 45</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  To view the full message please click 'Show Details' or review in the Messages window.", "Details": """CFX-Pre Application Error
+
+ERROR
+An error occurred during creation of the interface: 
+The proposed Interface, 'period', must contain either a Region List or a Boundary List.
+Unable to generate the Interface.""", "Association": "", "DateTimeStamp": 10/27/2026 09:52:42, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 46" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 46</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Boundary  for interface period could not be found
+
+
+There was a problem reading the physics CCL.
+
+
+There was a problem reading the generic physics CCL from
+the file \"C:\\Users\\Mattia\\Desktop\\CFD\\Ansys Project\\Wells_Single_files\\dp0\\CFX\\CFX\\CFX.def\". This could be because:
+
+  o The file does not exist or is not readable.
+  o It does not contain the required data set,
+    [\"G/COMMANDS\", \"EVERY\", 0].
+  o The data set contains invalid CCL.""", "Details": None, "Association": "", "DateTimeStamp": 10/27/2026 09:52:43, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 47" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 47</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.", "Details": """System.ApplicationException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCmd(String code, String data, Int32 maxWait, Boolean ignoreCUEErrorDuringSendCmd)
+   at Ansys.CFX.Foundation.App.CUEApplicationProxy.SendCCLNoACLE(String ccl, Boolean ignoreErrors)
+   at Ansys.CFX.CFXCore.App.CFXPreProxy.WriteDefFile(String fileName, Boolean writeSCP)
+   at Ansys.CFX.CFXCore.Data.CFXSetupSource.GetSolverInputFile(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSetupProvider.DoRetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.TransferDataObject.RetrieveData(IFullContext context, Guid connectionKey)
+   at Ansys.CFX.Foundation.Data.RetrieveDataCommand.Execute(IFullContext context)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.RetrieveData(Entity=\"/Setup 1/CFXSetup:Setup 1 Provider\", ConnectionKey=\"6f8f48a6-d9bd-46b2-a365-0c73b1a2bff4\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.Core.Commands.CommandContext.InvokeCommandAndWait(InvokeConfiguration configuration, CommandInfo commandInfo, ArgumentDictionary args)
+   at Ansys.Core.Commands.CommandContext.InvokeMethodAndWait(IObjectReference objectReference, String methodName, ArgumentDictionary args)
+   at Ansys.CFX.Foundation.DataTransfer.DataLink.RetrieveDataImpl(IFullContext context, Boolean updateRetrievalTimestamp)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.GetUpstreamSetup(IFullContext context)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.CheckForExecutionControlConflict(IFullContext context, ExecutionControlSourceEnum option)
+   at Ansys.CFX.CFXCore.Data.CFXSolutionSource.DefineRun(IFullContext context, ExecutionControlSourceEnum ecOption)
+   at Ansys.Core.Commands.Concurrency.CommandWorkUnit.executeInContext(CommandContext subContext, IExecutionEngineCallback tracer)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.doExecute(IExecutionEngineCallback executionEngine, CommandContext subContext)
+   at Ansys.Core.Commands.Concurrency.BaseWorkUnit.Execute(IExecutionEngineCallback executionEngine, Boolean dontCatchExceptions)
+--- Ansys.Core.Commands.CommandFailedException: Application error(s) occurred in CFX-Pre.  Please see the messages view for further details.
+CommandName: CFX.EditRunDefinition(Container=\"Solution 1\")
+   at Ansys.Core.Commands.CommandAsyncResult.RethrowFailureException(Exception e)
+   at Ansys.Core.Commands.CommandAsyncResult.Wait(Int32 milliSecondsTimeout, Boolean exitContext)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionCommand.InvokeAndWait(IProtectedContext context, DataContainerReference Container, ExecutionControlConflictOptions ExecutionControlOption)
+   at Ansys.CFX.CFXCore.Commands.EditRunDefinitionBase.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/27/2026 09:52:43, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 48" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 48</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Setup component in Fluid Flow (Fluent).  Command was cancelled: Setup Update Cancelled.", "Details": None, "Association": "", "DateTimeStamp": 10/29/2026 06:12:13, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": $$0203a90d-0072-4c07-b806-db0b9d6c4e40, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 49" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 49</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.", "Details": "", "Association": "", "DateTimeStamp": 10/29/2026 18:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 50" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 50</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "A dialog is open in the FLUENT Application. Please close the dialog before trying this operation.", "Details": None, "Association": "", "DateTimeStamp": 10/29/2026 18:06:16, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 51" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 51</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": r"An editor switch was made for component 'Geometry' involving the file 'C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_Single_files\dp0\FFF-1\DM\FFF-1.agdb'.  All parameters for this component, if any, have been cleared or replaced.", "Details": None, "Association": "", "DateTimeStamp": 10/30/2026 18:31:09, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 52" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 52</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": r"An editor switch was made for component 'Geometry' involving the file 'C:\Users\Mattia\Desktop\CFD\Ansys Project\Wells_Single_files\dp0\FFF-1\DM\FFF-1.scdocx'.  All parameters for this component, if any, have been cleared or replaced.", "Details": None, "Association": "", "DateTimeStamp": 10/30/2026 18:38:18, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 53" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 53</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "The Mesh component in Fluid Flow (Fluent) requires user input before it can be updated. For instructions on how to address the cell in its current state, click the blue triangle in the lower right corner of the cell in the Project Schematic.", "Details": None, "Association": "", "DateTimeStamp": 10/31/2026 10:01:01, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 54" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 54</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "The Mesh component in Fluid Flow (Fluent) requires user input before it can be updated. For instructions on how to address the cell in its current state, click the blue triangle in the lower right corner of the cell in the Project Schematic.", "Details": None, "Association": "", "DateTimeStamp": 10/31/2026 10:16:17, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 55" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 55</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": "The Mesh component in Fluid Flow (Fluent) requires user input before it can be updated. For instructions on how to address the cell in its current state, click the blue triangle in the lower right corner of the cell in the Project Schematic.", "Details": None, "Association": "", "DateTimeStamp": 10/31/2026 10:16:23, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 56" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 56</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "'GuiOperation Edit...' threw exception during Invoke: Object reference not set to an instance of an object.", "Details": """System.NullReferenceException: Object reference not set to an instance of an object.
+   at Ansys.DesignModeler.GUI.EditGeometry.Invoke(GuiOperationContext context)
+   at Ansys.UI.GuiOperationContext.Invoke(GuiOperationMetaData operationData)
+   at Ansys.UI.UIManager.InvokeOperationCore(String pseudoname, OperationDelegate callback, Boolean allowOSMessages, Boolean coreTransaction, Boolean deferredRefreshOnly)
+""", "Association": "", "DateTimeStamp": 10/31/2026 10:37:13, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 57" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 57</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Model information is incompatible with incoming mesh.Fluent failed to apply some mesh operations", "Details": """Following zones were missing in the mesh:
+stationary_out ,pre-mrf ,mrf_out-stationary_out ,mrf_out-pre-mrf ,mrf_in-stationary_out ,mrf_in-pre-mrf ,hub-stationary_out ,hub-pre-mrf ,duct-stationary_out ,duct-pre-mrf ,contact_region_3-src ,contact_region_3-trg
+Following new zones were found in the mesh:
+fff-1_stationary_in ,fff-1_stationary_out ,contact_region_2-trg ,contact_region_2-src ,duct-fff-1_stationary_in ,duct-fff-1_stationary_out ,hub-fff-1_stationary_in ,hub-fff-1_stationary_out ,mrf_in-fff-1_stationary_in ,mrf_in-fff-1_stationary_out ,mrf_out-fff-1_stationary_in ,mrf_out-fff-1_stationary_out ,inlet
+Following mesh operations failed while applying in FLUENT:
+Rename Zone  wall-pre-mrf to inlet  (Failed) ,Change Zone Type [ 3 ] (Failed) ,Change Zone Type [ 4 ] (Failed) ,Change Zone Type [ 6 ] (Failed) ,Change Zone Type [ 7 ] (Failed)
+""", "Association": "", "DateTimeStamp": 10/31/2026 10:54:24, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 58" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 58</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "A dialog is open in the FLUENT Application. Please close the dialog before trying this operation.", "Details": None, "Association": "", "DateTimeStamp": 10/31/2026 10:54:24, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 59" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 59</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Failed in handling Cortex/Fluent command messageWorkBench Error: Could not handle event: InitializationValidError Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Details": """Error in handling event: Error Occured during handling message in WorkBench: An error occurred in FLUENT during execution of an internal command
+An error occurred in FLUENT during execution of an internal command""", "Association": "", "DateTimeStamp": 10/31/2026 11:57:23, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 60" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 60</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Fluent failed to apply some mesh operations", "Details": """Following mesh operations failed while applying in FLUENT:
+Delete Mesh Interface (Failed)
+""", "Association": "", "DateTimeStamp": 10/31/2026 17:13:47, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Parameters" Version="1.0">
+      <container-type valType="String">Ansys.ParameterManager.ParameterManagerAddin:parameters</container-type>
+      <static-id valType="String">Parameters</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <maxUpdateOrder valType="Double">1</maxUpdateOrder>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 10756, "Input": 1519, "Output": 1518}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Parameters/DesignPoint:0" Version="1.0">
+        <class-type valType="String">DesignPoint</class-type>
+        <object-name valType="String">0</object-name>
+        <member-data valType="String">{"DisplayText": "DP 0", "JustDuplicated": False, "PartiallyRetainedData": [], "ValidRetainedData": [], "ErrorsOnLastUpdate": {}, "LastUpdateInformation": {"DidUpdate": "True", "DidPreRsmUpdate": "False", "UpdatedComponents": "Mesh in FFF"}, "Parameters": {}, "ParameterErrors": {}, "CurrentValues": {}, "ParameterStatus": {}, "Note": None, "IsUpToDate": False, "Exported": True, "Retained": True, "IsHpsRetainedDataValidAndAvailable": False, "CurrentStateExported": False, "IsDataModelValid": True, "HasRetainedData": True, "HasBeenSolved": False, "UpdateOrder": 1}</member-data>
+        <properties-setByUserFlag-data valType="String">["IsHpsRetainedDataValidAndAvailable", "IsDataModelValid"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Parameters/DesignPointReportSetting:Design Points Report Setting" Version="1.0">
+        <class-type valType="String">DesignPointReportSetting</class-type>
+        <object-name valType="String">Design Points Report Setting</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Report Setting", "DesignPointReportImage": "None"}</member-data>
+      </Object>
+      <ParameterToPropertyMap />
+    </Container>
+    <Container Name="Schematic" Version="1.0">
+      <container-type valType="String">Ansys.ProjectSchematic.ProjectSchematicAddin:Default</container-type>
+      <static-id valType="String">Schematic</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 10704, "Input": 10606, "Output": 1521}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Schematic/System:FFF" Version="1.0">
+        <class-type valType="String">System</class-type>
+        <object-name valType="String">FFF</object-name>
+        <member-data valType="String">{"DisplayText": "Fluid Flow (Fluent)", "Components": [$$f0bbeffb-c682-4ce4-bde7-e0f067b3fc2b, $$0060cbc9-91ec-4956-8855-176747765018, $$0203a90d-0072-4c07-b806-db0b9d6c4e40, $$975ae061-f999-46ac-963b-9b8def8e2235, $$f3281bac-e515-47ae-867f-9bf224c8eee4], "ComponentGroups": [], "SystemVisible": True, "RequiredComponents": [$$0203a90d-0072-4c07-b806-db0b9d6c4e40, $$975ae061-f999-46ac-963b-9b8def8e2235], "ExcludedComponentTemplates": [], "Attributes": {"PhysicsTypeDisplayString": "Fluids", "Start from available data": "True", "SolverTypeDisplayString": "FLUENT", "IsCreated": "True", "VOLATILE:SystemName": "FFF"}, "SystemType": "Fluid Flow (FLUENT)", "HeaderText": "Fluid Flow (Fluent)", "SystemTypeAbbreviation": "FFF", "UniqueSystemDirectoryName": "FFF-1", "Physics": ["Fluids"], "AnalysisType": None, "SystemHelpId": "wb2sb_ffFLUENT", "AdditionalSystemHelpId": None, "FromSnippetTemplate": None, "IsParametric": False, "CreatedFromTemplate": $$f5092793-0f45-49d3-a11a-afc6b2dbd9b5, "Notes": None, "LayoutChildren": [], "LayoutIndex": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/SchematicSettings:Schematic Settings" Version="1.0">
+        <class-type valType="String">SchematicSettings</class-type>
+        <object-name valType="String">Schematic Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic Settings", "WireBundling": False, "ShowSystemCoordinates": True, "Notes": None, "SuspendCollectingRSMResult": False}</member-data>
+      </Object>
+      <Object Name="/Schematic/DesignPointSolveSettings:Design Points Update Settings" Version="1.0">
+        <class-type valType="String">DesignPointSolveSettings</class-type>
+        <object-name valType="String">Design Points Update Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Update Settings", "UpdateOption": "Foreground", "RsmUserString": None, "ConfiguredQueue": {"OptionIcons": None, "OptionLabels": "Local", "Options": "Local", "ReadOnlyOptions": None, "OptionFeatureFlags": None, "OptionFilterFlags": None, "OptionLicenseFlags": None, "Value": "Local"}, "RsmJobName": "Workbench", "UpdateMethod": "Foreground", "UpdateOrder": "UpdateFromCurrentDesignPoint", "PreRSMUpdate": "Geometry", "PreHPCUpdate": "None", "PartialUpdate": "None", "RetainPartialUpdate": "None", "ComponentExecutionMode": "Serial", "NumberOfCoresPerJob": 2, "RetainFailedDesignPoints": False, "DesignPointRetainedOrExportedUpdate": "Parameters", "DesignPointUpdateTimeout": 0, "JobStatusCheckIntervalInSeconds": 20, "NumberOfJobsToBeCreated": 1, "NumberOfTasksToBeCreated": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/Bookkeeper:Schematic bookkeeper" Version="1.0">
+        <class-type valType="String">Bookkeeper</class-type>
+        <object-name valType="String">Schematic bookkeeper</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic bookkeeper", "UpfrontLicenseCheckoutSelection": []}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:FSI: Fluid Flow (CFX) -&gt; Static Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">FSI: Fluid Flow (CFX) -&gt; Static Structural</object-name>
+        <member-data valType="String">{"DisplayText": "FSI: Fluid Flow (CFX) -&gt; Static Structural", "SystemTemplates": [$$9b7f2ad1-c11e-47b0-a490-ef3705ac9dc0, $$ad20e9d8-ca76-4aba-9026-3bc745674ada], "SystemNames": ["Fluid Flow (CFX)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Fluid Flow (CFX):Geometry", "Static Structural (ANSYS):Geometry"], ["Connect", "Fluid Flow (CFX):Solution:CFXTransferResultsTemplate", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Fluid Flow (CFX)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Fluid Flow (CFX)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:FSI: Fluid Flow (FLUENT) -&gt; Static Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">FSI: Fluid Flow (FLUENT) -&gt; Static Structural</object-name>
+        <member-data valType="String">{"DisplayText": "FSI: Fluid Flow (FLUENT) -&gt; Static Structural", "SystemTemplates": [$$f5092793-0f45-49d3-a11a-afc6b2dbd9b5, $$ad20e9d8-ca76-4aba-9026-3bc745674ada], "SystemNames": ["Fluid Flow (FLUENT)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Fluid Flow (FLUENT):Geometry", "Static Structural (ANSYS):Geometry"], ["Connect", "Fluid Flow (FLUENT):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Fluid Flow (FLUENT)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Fluid Flow (FLUENT)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Thermal-Stress" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Thermal-Stress</object-name>
+        <member-data valType="String">{"DisplayText": "Thermal-Stress", "SystemTemplates": [$$25893672-1987-435d-9d36-0acc0304e5d6, $$ad20e9d8-ca76-4aba-9026-3bc745674ada], "SystemNames": ["Steady-State Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Steady-State Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Steady-State Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Steady-State Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Steady-State Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Steady-State Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Steady-State Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Pre-Stress Modal" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Pre-Stress Modal</object-name>
+        <member-data valType="String">{"DisplayText": "Pre-Stress Modal", "SystemTemplates": [$$ad20e9d8-ca76-4aba-9026-3bc745674ada, $$c46259f9-53d0-4eee-bc23-8f744221da7b], "SystemNames": ["Static Structural (ANSYS)", "Modal (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Static Structural (ANSYS):Engineering Data", "Modal (ANSYS):Engineering Data"], ["Share", "Static Structural (ANSYS):Geometry", "Modal (ANSYS):Geometry"], ["Share", "Static Structural (ANSYS):Model", "Modal (ANSYS):Model"], ["Connect", "Static Structural (ANSYS):Solution", "Modal (ANSYS):Setup"]], "LayoutIndices": {"Static Structural (ANSYS)": 1, "Modal (ANSYS)": 0}, "LayoutChildren": {"Static Structural (ANSYS)": ["Modal (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Random Vibration" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Random Vibration</object-name>
+        <member-data valType="String">{"DisplayText": "Random Vibration", "SystemTemplates": [$$c46259f9-53d0-4eee-bc23-8f744221da7b, $$94a498f0-883c-41fe-b62c-99ce4e0ff6dd], "SystemNames": ["Modal (ANSYS)", "Random Vibration (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Random Vibration (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Random Vibration (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Random Vibration (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Random Vibration (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Random Vibration (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Random Vibration (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Response Spectrum" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Response Spectrum</object-name>
+        <member-data valType="String">{"DisplayText": "Response Spectrum", "SystemTemplates": [$$c46259f9-53d0-4eee-bc23-8f744221da7b, $$2f4da898-8dde-4cc7-8a6f-ce26c6f0e6cb], "SystemNames": ["Modal (ANSYS)", "Response Spectrum (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Response Spectrum (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Response Spectrum (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Response Spectrum (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Response Spectrum (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Response Spectrum (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Response Spectrum (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM DED Process" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM DED Process</object-name>
+        <member-data valType="String">{"DisplayText": "AM DED Process", "SystemTemplates": [$$b2bdee82-2d84-4308-b79a-3789934c6ab0, $$ad20e9d8-ca76-4aba-9026-3bc745674ada], "SystemNames": ["Transient Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Transient Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Transient Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Transient Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"]], "LayoutIndices": {"Transient Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Transient Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {"Transient Thermal (ANSYS)": {"IsAMDEDSystem": "True"}, "Static Structural (ANSYS)": {"IsAMDEDSystem": "True"}}, "SystemDisplayTexts": {"Transient Thermal (ANSYS)": "AM DED Thermal", "Static Structural (ANSYS)": "AM DED Structural"}, "DisabledOnPlatform": "Linux"}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM PBF Thermal-Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM PBF Thermal-Structural</object-name>
+        <member-data valType="String">{"DisplayText": "AM PBF Thermal-Structural", "SystemTemplates": [$$b2bdee82-2d84-4308-b79a-3789934c6ab0, $$ad20e9d8-ca76-4aba-9026-3bc745674ada], "SystemNames": ["Transient Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Transient Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Transient Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Transient Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Transient Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Transient Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Transient Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {"Transient Thermal (ANSYS)": {"IsAMSystem": "True"}, "Static Structural (ANSYS)": {"IsAMSystem": "True"}}, "SystemDisplayTexts": {"Transient Thermal (ANSYS)": "AM PBF Thermal", "Static Structural (ANSYS)": "AM PBF Structural"}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM PBF Inherent Strain" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM PBF Inherent Strain</object-name>
+        <member-data valType="String">{"DisplayText": "AM PBF Inherent Strain", "SystemTemplates": [$$ad20e9d8-ca76-4aba-9026-3bc745674ada], "SystemNames": ["Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [], "LayoutIndices": {}, "LayoutChildren": {}, "Attributes": {"Static Structural (ANSYS)": {"IsAMSystem": "True"}}, "SystemDisplayTexts": {"Static Structural (ANSYS)": "AM PBF Inherent Strain"}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Geometry" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Geometry</object-name>
+        <member-data valType="String">{"DisplayText": "Geometry", "ImageName": "cad_discovery", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Geometry", "_overwrittenUpdatable": None, "Template": $$48b167e1-b5cf-4be9-9c45-69bab450d0f6, "InSystem": $$2b849d9a-6682-43b0-bd4f-7a65b8e27d5a, "MasterSources": {"Sources": []}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Mesh" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Mesh</object-name>
+        <member-data valType="String">{"DisplayText": "Mesh", "ImageName": "model2", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Mesh", "_overwrittenUpdatable": None, "Template": $$6107742d-153c-453f-8076-1a9c350029b9, "InSystem": $$2b849d9a-6682-43b0-bd4f-7a65b8e27d5a, "MasterSources": {"Sources": [[{"DataType": "Geometry", "Component": $$f0bbeffb-c682-4ce4-bde7-e0f067b3fc2b, "Transfer": None}]]}, "Notes": None, "UsedLicenses": {"cfd_base": 2, "cfd_preppost": 2, "cfd_preppost_pro": 2}, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Setup" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Setup</object-name>
+        <member-data valType="String">{"DisplayText": "Setup", "ImageName": "setup", "ComponentStateOnLastFailure": "Modified", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Setup", "_overwrittenUpdatable": None, "Template": $$dda80e00-02cb-4c7b-9d16-f8e0e819f253, "InSystem": $$2b849d9a-6682-43b0-bd4f-7a65b8e27d5a, "MasterSources": {"Sources": [[{"DataType": "SimulationGeneratedMesh", "Component": $$0060cbc9-91ec-4956-8855-176747765018, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Solution" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Solution</object-name>
+        <member-data valType="String">{"DisplayText": "Solution", "ImageName": "solution", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Solution", "_overwrittenUpdatable": None, "Template": $$f1174d51-a481-4057-b87d-5b9a37887035, "InSystem": $$2b849d9a-6682-43b0-bd4f-7a65b8e27d5a, "MasterSources": {"Sources": [[{"DataType": "FluentSetup", "Component": $$0203a90d-0072-4c07-b806-db0b9d6c4e40, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "FLUENT", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Results" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Results</object-name>
+        <member-data valType="String">{"DisplayText": "Results", "ImageName": "results", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Results", "_overwrittenUpdatable": None, "Template": $$d9b4aeae-5920-418e-9ded-99094e8eb512, "InSystem": $$2b849d9a-6682-43b0-bd4f-7a65b8e27d5a, "MasterSources": {"Sources": [[{"DataType": "FluentSolution", "Component": $$975ae061-f999-46ac-963b-9b8def8e2235, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="ReportDataContainer" Version="1.0">
+      <container-type valType="String">Ansys.ProjectReporting.Addin:ReportDataContainer</container-type>
+      <static-id valType="String">ReportDataContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1842, "Input": 1833, "Output": 1833}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Graphics" Version="1.0">
+      <container-type valType="String">Ansys.Graphics.GraphicsAddin:graphics</container-type>
+      <static-id valType="String">Graphics</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 2547, "Input": 1843, "Output": 1843}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Units" Version="1.0">
+      <container-type valType="String">Ansys.Units.Commands.Addin:Units</container-type>
+      <static-id valType="String">Units</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1844, "Input": 2053, "Output": 1844}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Units/UnitSystemProjectSettings:UnitSystemProjectSettings" Version="1.0">
+        <class-type valType="String">UnitSystemProjectSettings</class-type>
+        <object-name valType="String">UnitSystemProjectSettings</object-name>
+        <member-data valType="String">{"DisplayText": "UnitSystemProjectSettings", "DataContainerUnitSystemRegistry": {"Geometry": "DesignModelerUnitSystem_m"}}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys</object-name>
+        <member-data valType="String">{"DisplayText": "Metric (kg,m,s,°C,A,N,V)", "ChangedQuantityUnits": {}, "UnitSystemName": "MKS_STANDARD", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": True, "IsDefault": False}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys 1" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys 1</object-name>
+        <member-data valType="String">{"DisplayText": "DesignModeler Unit System (m, degree)", "ChangedQuantityUnits": {}, "UnitSystemName": "DesignModelerUnitSystem_m", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": False, "IsDefault": False}</member-data>
+      </Object>
+    </Container>
+    <Container Name="HpsContainer" Version="1.0">
+      <container-type valType="String">Ansys.HPS.Addin:HpsContainer</container-type>
+      <static-id valType="String">HpsContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1851, "Input": 1847, "Output": 1847}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/HpsContainer/HpsSettings:HPS Settings Entity" Version="1.0">
+        <class-type valType="String">HpsSettings</class-type>
+        <object-name valType="String">HPS Settings Entity</object-name>
+        <member-data valType="String">{"DisplayText": "HPS Settings Entity", "ServerUrl": "https://localhost:8443/hps", "ServerUserName": None, "ServerPassword": None, "ProjectId": None, "UpdateDesignPointInSteps": False, "MinimumMemoryRequired": 0, "MinimumFreeDiskSpaceRequired": 0, "Platform": "Any", "Distributed": False, "CpuPerNode": 0, "GpuPerNode": 0, "Exclusive": False, "LocalScratch": False, "ExecutionTime": 300, "MaxNumberOfAttempts": 1, "MaxNumberOfParallelTasks": 0, "GeometryNumberOfCores": 0, "AutoDownloadRetainedData": True}</member-data>
+      </Object>
+      <Object Name="/HpsContainer/HpsProjectIdMap:HPS ProjectId Map Entity" Version="1.0">
+        <class-type valType="String">HpsProjectIdMap</class-type>
+        <object-name valType="String">HPS ProjectId Map Entity</object-name>
+        <member-data valType="String">{"DisplayText": "HPS ProjectId Map Entity", "HpsProjectIdMap": {}}</member-data>
+      </Object>
+    </Container>
+    <Container Name="PyAddinManager" Version="1.0">
+      <container-type valType="String">Ansys.PyAddin.Core.Addin:ManagerContainer</container-type>
+      <static-id valType="String">PyAddinManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1852, "Input": 1853, "Output": 1852}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/PyAddinManager/ManagerDataObject:PyAddins" Version="1.0">
+        <class-type valType="String">ManagerDataObject</class-type>
+        <object-name valType="String">PyAddins</object-name>
+        <member-data valType="String">{"DisplayText": "PyAddins", "PyAddins": {}}</member-data>
+      </Object>
+    </Container>
+  </Containers>
+</Storage>
