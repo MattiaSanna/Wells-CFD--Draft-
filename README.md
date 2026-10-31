@@ -7,6 +7,9 @@ This project focuses on the numerical replication of experimental Wells turbine 
 A single configuration from the experimental campaign was selected for numerical replication. The same turbine geometry, rotational speed, inlet conditions and fluid properties were implemented in ANSYS Fluent using a steady Multiple Reference Frame (MRF) approach. 
 
 
+[View my Wells Turbine CFD project](https://wells.serben-di-pupo.com)
+
+
 ## 2. Project Objectives and Methodology
 
 The numerical investigation was divided into several stages:
