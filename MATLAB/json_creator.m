@@ -37,25 +37,10 @@ torque_coef = torque_aero ./ (rho .* (omega).^2 .* tip_radius^5);
 
 press_coef = deltaP ./ (rho .* (omega).^2 * tip_radius.^2);
 
-efficency = (torque_aero .* omega) ./ (deltaP .* Q);
+efficiency = (torque_aero .* omega) ./ (deltaP .* Q);
 
 %U at the avergae blade span
 U_aver = 2 * pi * r_med * omega_rpm / 60;
-
-%velocity magnitude
-
-
-C_star = sqrt(2 .* abs(deltaP) ./ rho);
-W2s = sqrt(U_aver.^2 + C_star.^2);
-C2u = -(torque_aero .* omega) ./ (U_aver .* piston_vel .* rho .* Ap);
-C2ax = (piston_vel .* Ap) ./ At;
-C2 = sqrt(C2u.^2 + C2ax.^2);
-W2 = sqrt(C2ax.^2 + (U_aver + C2u).^2);
-cosB2 = (U_aver + C2u) ./ W2;
-
-
-%Velocity reduction coefficients
-
 
 
 %lets plot
@@ -80,7 +65,7 @@ xlim([-0.4 0.4]);
 grid on
 
 figure(3)
-plot(flow_coef, efficency, 'o', 'MarkerFaceColor', red, 'MarkerEdgeColor', red, 'MarkerSize', marker_size)
+plot(flow_coef, efficiency, 'o', 'MarkerFaceColor', red, 'MarkerEdgeColor', red, 'MarkerSize', marker_size)
 xlabel('Flow coefficient  $\phi^{*}$', 'Interpreter', 'latex', 'FontSize', font_axis)
 ylabel('Efficiency $\eta$', 'Interpreter', 'latex', 'FontSize', font_axis)
 ylim([0 1]);
@@ -99,7 +84,7 @@ file = struct();
 file.flowCoefficient   = flow_coef(1:10:end);
 file.torqueCoefficient = torque_coef(1:10:end);
 file.pressureCoefficient = press_coef(1:10:end);
-file.efficiency    = efficency(1:10:end);
+file.efficiency    = efficiency(1:10:end);
 
 
 % For Octave / older MATLAB versions:
@@ -205,14 +190,14 @@ file = struct();
 file.flowCoefficient   = flow_coef;
 file.torqueCoefficient = torque_coef;
 file.pressureCoefficient = press_coef;
-file.efficiency    = efficency;
+file.efficiency    = efficiency;
 
 
 % For Octave / older MATLAB versions:
 jsonString = jsonencode(file);
 
 % 3. Save to disk
-fid = fopen('CFD.json', 'w');
+fid = fopen('cfd.json', 'w');
 fprintf(fid, '%s', jsonString);
 fclose(fid);
 
