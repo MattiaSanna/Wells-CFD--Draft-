@@ -127,8 +127,6 @@ Validation focused on:
 - **Torque, pressure drop and efficiency:** comparing simulated and experimental torque across different inlet velocities.
 - **Flow behaviour:** examining pressure and velocity distributions around the blades to verify that the simulated aerodynamic behaviour was physically consistent.
 
-A grid independence study was also conducted using four mesh resolutions (1.2M, 3.5M, 7.8M and 12.1M cells). Torque and efficiency were monitored across the mesh levels to assess the influence of cell count on the numerical results.
-
 Residual convergence and the stability of monitored quantities were checked to evaluate numerical convergence.
 
 The comparison highlighted differences between CFD predictions and experimental measurements, providing a basis for assessing the limitations of the numerical setup and identifying areas for further improvement.
