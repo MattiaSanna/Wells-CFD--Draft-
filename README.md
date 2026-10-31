@@ -139,4 +139,3 @@ The comparison highlighted differences between CFD predictions and experimental 
 - Python
 - MATLAB
 - SolidWorks
-- HTML, CSS and JavaScript
