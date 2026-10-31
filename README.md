@@ -129,7 +129,7 @@ A grid independence study was also conducted using four mesh resolutions (1.2M, 
 Residual convergence and the stability of monitored quantities were checked to evaluate numerical convergence.
 
 The comparison highlighted differences between CFD predictions and experimental measurements, providing a basis for assessing the limitations of the numerical setup and identifying areas for further improvement.
-## Technologies
+## Softwares
 
 - ANSYS Fluent
 - ANSYS DesignMdoler
@@ -137,7 +137,3 @@ The comparison highlighted differences between CFD predictions and experimental 
 - MATLAB
 - SolidWorks
 - HTML, CSS and JavaScript
-
-## Objective
-
-The project combines CAD reconstruction, computational mesh generation, CFD simulation and numerical post-processing to investigate Wells turbine aerodynamics and assess the reliability of numerical predictions against experimental data.
